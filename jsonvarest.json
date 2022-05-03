@@ -1,0 +1,22 @@
+{
+  "UserInfo": [
+    {
+      "UserId": "0",
+      "firstName": "Joel",
+      "lastName": "Andrade",
+      "age": "27"
+    },
+     {
+      "UserId": "1",
+      "firstName": "Lucas",
+      "lastName": "Sobral",
+      "age": "18"
+    },
+     {
+      "UserId": "2",
+      "firstName": "Gabriel",
+      "lastName": "Soares",
+      "age": "18"
+    }
+  ]
+}
